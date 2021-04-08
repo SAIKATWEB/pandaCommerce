@@ -21,3 +21,41 @@ body{
     color: #fff;
     border: none;
 }
+.cat_1, .cat_2, .cat_3{
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+.cat_1{
+    background: orange;
+}
+.cat_2{
+    background: orchid;
+}
+.cat_3{
+    background: blue;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
